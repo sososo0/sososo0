@@ -34,7 +34,7 @@
 
 - 🔭 I’m currently studying at 🏫 Pusan National University
 - 🌱 I’m currently learning 💻 Computer Science
-- 🤔 I’m interested in Java, Docker, Kubernetes, Cloud Platform
+- 🤔 I’m interested in Java, Python, Docker, Kubernetes, Cloud Platform
 - 📫 How to reach me: ✉️ sh0000@pusan.ac.kr 📝[Tech-Blog](https://sososo-cs.tistory.com/)
 
 </div>
