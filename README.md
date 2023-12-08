@@ -18,7 +18,7 @@
 ![MariaDB 10.0](https://img.shields.io/badge/MariaDB%2010.0-005C84?style=flat-square&logo=mariadb&logoColor=white)
 ![Harbor 2.8.2](https://img.shields.io/badge/Harbor%202.8.2-DC382D?style=flat-square&logo=Harbor&logoColor=white)
 ![Naver Cloud](https://img.shields.io/badge/NAVER%20Cloud-03C75A?style=flat-square&logo=naver&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 
 ![docker 24.0.7](https://img.shields.io/badge/Docker%2024.0.7-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![nginx 1.18.0](https://img.shields.io/badge/Nginx%201.18.0-009639?style=flat-square&logo=Nginx&logoColor=white)
