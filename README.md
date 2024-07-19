@@ -9,21 +9,17 @@
 
 #### 🛠 Skill & Tool  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Fast API](https://img.shields.io/badge/Fast%20API-20b2aa?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![spring boot](https://img.shields.io/badge/Spring%20boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=005C84)
+![go](https://img.shields.io/badge/-Go-00D9ED?style=flat-square&logo=go&logoColor=white)
+
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-005C84?style=flat-square&logo=mariadb&logoColor=white)
 ![Harbor](https://img.shields.io/badge/Harbor-DC382D?style=flat-square&logo=Harbor&logoColor=white)
 ![Naver Cloud](https://img.shields.io/badge/NAVER%20Cloud-03C75A?style=flat-square&logo=naver&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white)
 ![Kubernates](https://img.shields.io/badge/KUBERNETES-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
@@ -33,7 +29,7 @@
 
 - 🔭 I’m currently studying at 🏫 Pusan National University
 - 🌱 I’m currently learning 💻 Computer Science
-- 🤔 I’m interested in Python, Java, DataBase, Docker, Kubernetes, Cloud Platform
+- 🤔 I’m interested in Java, DataBase, Docker, Kubernetes, Cloud Platform
 - 📫 How to reach me: ✉️ sh0000@pusan.ac.kr 📝[Tech-Blog](https://sososo-cs.tistory.com/)
 
 </div>
