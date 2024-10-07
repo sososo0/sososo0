@@ -27,7 +27,7 @@
  
 #### ✨ about me
 
-- 🔭 I’m currently studying at 🏫 Pusan National University
+- 🔭 I’m graduated at 🏫 Pusan National University
 - 🌱 I’m currently learning 💻 Computer Science
 - 🤔 I’m interested in Java, Go, DataBase, Docker, Kubernetes, Cloud Platform
 - 📫 How to reach me: ✉️ sh0000@pusan.ac.kr 📝[Tech-Blog](https://sososo-cs.tistory.com/)
